@@ -1,10 +1,14 @@
 ## I'm Eitan Stein
 
 I am a M.Sc. computer sceince graduate
-focusing on C++ programming and algorithms
+Focusing on C++ programming and algorithms
 
+Languages I worked and familiar with:
+- C++
+- Python
+- C
+- Matlab
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EitanStein&layout=compact&theme=tokyonight&hide=html,css)
 <!--
 **EitanStein/EitanStein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
