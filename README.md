@@ -1,9 +1,11 @@
-## I'm Eitan Stein
+### Hi 👋 
+### I'm Eitan Stein
+
 
 I am a M.Sc. computer sceince graduate
 Focusing on C++ programming and algorithms
 
-Languages I worked and familiar with:
+Languages I worked with:
 - C++
 - Python
 - C
